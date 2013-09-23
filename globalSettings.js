@@ -3,3 +3,4 @@
 */
 
 var isSnowEffectOn=false;
+var isCircularMotion = false;
